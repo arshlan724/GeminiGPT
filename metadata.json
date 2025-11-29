@@ -1,0 +1,7 @@
+{
+  "name": "GeminiGPT",
+  "description": "A powerful AI chat interface powered by Google's Gemini models, featuring streaming responses, Markdown support, and multi-model selection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
